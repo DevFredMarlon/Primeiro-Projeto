@@ -18,7 +18,7 @@ header {
     text-align: center;
     color: #17233D;
     margin-right: 32px;
-    cursor: pointer;
+    
 
 }
 
@@ -74,4 +74,5 @@ p{
     background: transparent;
     border: none;
 
+   
 }
